@@ -1,3 +1,1 @@
-a = "1"
-b = True
-c = []
+a = "hello there"
